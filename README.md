@@ -13,3 +13,5 @@
 ![Git](https://img.shields.io/badge/-Git-000080?style=for-the-badge&logo=Git&logoColor=critical)
 ![GitHub](https://img.shields.io/badge/-GitHub-000080?style=for-the-badge&logo=GitHub)
 ![VSCode](https://img.shields.io/badge/-VSCode-000080?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levineye13&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
