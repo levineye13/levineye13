@@ -14,4 +14,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000080?style=for-the-badge&logo=GitHub)
 ![VSCode](https://img.shields.io/badge/-VSCode-000080?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
 
+### Studying now
+
+![Sass](https://img.shields.io/badge/-Sass-000080?style=for-the-badge&logo=Sass&logoColor=#c69)
+![CSS3](https://img.shields.io/badge/-Node.js-000080?style=for-the-badge&logo=Node.js&logoColor=green)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levineye13&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
