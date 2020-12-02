@@ -10,6 +10,7 @@
 
 ![React](https://img.shields.io/badge/-React-000080?style=for-the-badge&logo=React&logoColor=informational)
 ![Express.js](https://img.shields.io/badge/-Express-000080?style=for-the-badge&logo=Node.js&logoColor=yellow)
+![Redux](https://img.shields.io/badge/-Redux-000080?style=for-the-badge&logo=Redux)
 
 ### Tools
 
