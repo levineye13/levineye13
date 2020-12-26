@@ -10,7 +10,7 @@
 
 ![React](https://img.shields.io/badge/-React-000080?style=for-the-badge&logo=React&logoColor=informational)
 ![Express.js](https://img.shields.io/badge/-Express-000080?style=for-the-badge&logo=Node.js&logoColor=yellow)
-![Redux](https://img.shields.io/badge/-Redux-000080?style=for-the-badge&logo=Redux)
+![Sass](https://img.shields.io/badge/-Sass-000080?style=for-the-badge&logo=Sass&logoColor=#c69)
 
 ### Tools
 
@@ -21,7 +21,7 @@
 
 ### Studying now
 
-![Sass](https://img.shields.io/badge/-Sass-000080?style=for-the-badge&logo=Sass&logoColor=#c69)
+![Redux](https://img.shields.io/badge/-Redux-000080?style=for-the-badge&logo=Redux)
 ![Node](https://img.shields.io/badge/-Node-000080?style=for-the-badge&logo=Node.js&logoColor=green)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levineye13&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
