@@ -2,26 +2,35 @@
 
 ### Languages
 
-![HTML5](https://img.shields.io/badge/-HTML5-000080?style=for-the-badge&logo=HTML5&logoColor=orange)
-![CSS3](https://img.shields.io/badge/-CSS3-000080?style=for-the-badge&logo=CSS3&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000080?style=for-the-badge&logo=JavaScript&logoColor=yellow)
+![HTML5](https://img.shields.io/badge/-HTML5-ff4500?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-0000cd?style=flat&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-ffff00?style=flat&logo=JavaScript&logoColor=ff4500)
+![Node](https://img.shields.io/badge/-NodeJS-008800?style=flat&logo=Node.js&logoColor=ffffff)
 
 ### Libraries and Frameworks
 
-![React](https://img.shields.io/badge/-React-000080?style=for-the-badge&logo=React&logoColor=informational)
-![Express.js](https://img.shields.io/badge/-Express-000080?style=for-the-badge&logo=Node.js&logoColor=yellow)
-![Sass](https://img.shields.io/badge/-Sass-000080?style=for-the-badge&logo=Sass&logoColor=#c69)
+![React](https://img.shields.io/badge/-ReactJS-0000cc?style=flat&logo=React&logoColor=white)
+![Express](https://img.shields.io/badge/-ExpressJS-dddd00?style=flat&logo=Node.js&logoColor=ff4400)
+![Scss](https://img.shields.io/badge/-Scss-bf4080?style=flat&logo=Sass&logoColor=white)
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-ffff00?style=flat&logo=MongoDB&logoColor=yellow)
 
 ### Tools
 
-![Webpack](https://img.shields.io/badge/-Webpack-000080?style=for-the-badge&logo=Webpack)
-![Git](https://img.shields.io/badge/-Git-000080?style=for-the-badge&logo=Git&logoColor=critical)
-![GitHub](https://img.shields.io/badge/-GitHub-000080?style=for-the-badge&logo=GitHub)
-![VSCode](https://img.shields.io/badge/-VSCode-000080?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
+![Webpack](https://img.shields.io/badge/-Webpack-00ffff?style=flat&logo=Webpack&logoColor=blue)
+![Git](https://img.shields.io/badge/-Git-ffffff?style=flat&logo=Git&logoColor=critical)
+![GitHub](https://img.shields.io/badge/-GitHub-ffffff?style=flat&logo=GitHub&logoColor=black)
+![VSCode](https://img.shields.io/badge/-VSCode-000080?style=flat&logo=Visual-studio-code&logoColor=blue)
 
 ### Studying now
 
-![Redux](https://img.shields.io/badge/-Redux-000080?style=for-the-badge&logo=Redux)
-![Node](https://img.shields.io/badge/-Node-000080?style=for-the-badge&logo=Node.js&logoColor=green)
+![Redux](https://img.shields.io/badge/-Redux-764abc?style=flat&logo=Redux)
+![Nginx](https://img.shields.io/badge/-Nginx-008800?style=flat&logo=Nginx&logoColor=ffffff)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levineye13&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+### CodeWars
+
+[![CodeWars](https://www.codewars.com/users/Oleg%20Zharov/badges/large)](https://www.codewars.com/users/Oleg%20Zharov)
