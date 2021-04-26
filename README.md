@@ -11,7 +11,7 @@
 
 ![React](https://img.shields.io/badge/-ReactJS-0000cc?style=flat&logo=React&logoColor=white)
 ![Express](https://img.shields.io/badge/-ExpressJS-dddd00?style=flat&logo=Node.js&logoColor=ff4400)
-![Scss](https://img.shields.io/badge/-Scss-bf4080?style=flat&logo=Sass&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-bf4080?style=flat&logo=Sass&logoColor=white)
 
 ### Databases
 
