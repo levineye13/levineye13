@@ -23,6 +23,7 @@
 ![Git](https://img.shields.io/badge/-Git-ffffff?style=flat&logo=Git&logoColor=critical)
 ![GitHub](https://img.shields.io/badge/-GitHub-ffffff?style=flat&logo=GitHub&logoColor=black)
 ![VSCode](https://img.shields.io/badge/-VSCode-000080?style=flat&logo=Visual-studio-code&logoColor=blue)
+![Postman](https://img.shields.io/badge/-Postman-303030?style=flat&logo=Postman&logoColor=ef5b25)
 
 ### Studying now
 
