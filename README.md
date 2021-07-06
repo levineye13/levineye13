@@ -1,17 +1,18 @@
 ## Hi there, I'm Oleg, beginner Web Developer 👋
 
-### Languages
+### Frontend
 
 ![HTML5](https://img.shields.io/badge/-HTML5-ff4500?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-0000cd?style=flat&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-ffff00?style=flat&logo=JavaScript&logoColor=ff4500)
-![Node](https://img.shields.io/badge/-NodeJS-008800?style=flat&logo=Node.js&logoColor=ffffff)
-
-### Libraries and Frameworks
-
-![React](https://img.shields.io/badge/-ReactJS-0000cc?style=flat&logo=React&logoColor=white)
-![Express](https://img.shields.io/badge/-ExpressJS-dddd00?style=flat&logo=Node.js&logoColor=ff4400)
 ![Sass](https://img.shields.io/badge/-Sass-bf4080?style=flat&logo=Sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-ffff00?style=flat&logo=JavaScript&logoColor=ff4500)
+![React](https://img.shields.io/badge/-ReactJS-0000cc?style=flat&logo=React&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764abc?style=flat&logo=Redux)
+
+### Backend
+
+![Node](https://img.shields.io/badge/-NodeJS-008800?style=flat&logo=Node.js&logoColor=ffffff)
+![Express](https://img.shields.io/badge/-ExpressJS-dddd00?style=flat&logo=Node.js&logoColor=ff4400)
 
 ### Databases
 
@@ -28,7 +29,6 @@
 
 ### Studying now
 
-![Redux](https://img.shields.io/badge/-Redux-764abc?style=flat&logo=Redux)
 ![Nginx](https://img.shields.io/badge/-Nginx-008800?style=flat&logo=Nginx&logoColor=ffffff)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levineye13&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
