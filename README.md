@@ -29,6 +29,7 @@
 
 ### Studying now
 
+![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=flat&logo=TypeScript&logoColor=ffffff)
 ![Nginx](https://img.shields.io/badge/-Nginx-008800?style=flat&logo=Nginx&logoColor=ffffff)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levineye13&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
