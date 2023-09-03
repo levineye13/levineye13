@@ -34,7 +34,3 @@
 ![Nest](https://img.shields.io/badge/-Nest-000000?style=flat&logo=NestJs&logoColor=e0234e)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levineye13&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-### CodeWars
-
-[![CodeWars](https://www.codewars.com/users/Oleg%20Zharov/badges/large)](https://www.codewars.com/users/Oleg%20Zharov)
