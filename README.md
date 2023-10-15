@@ -28,9 +28,4 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-000080?style=flat&logo=Visual-studio-code&logoColor=blue)
 ![Postman](https://img.shields.io/badge/-Postman-303030?style=flat&logo=Postman&logoColor=ef5b25)
 
-### Studying now
-
-![Nginx](https://img.shields.io/badge/-Nginx-008800?style=flat&logo=Nginx&logoColor=ffffff)
-![Nest](https://img.shields.io/badge/-Nest-000000?style=flat&logo=NestJs&logoColor=e0234e)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levineye13&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
