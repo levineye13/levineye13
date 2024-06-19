@@ -22,12 +22,12 @@
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-ffff00?style=flat&logo=MongoDB&logoColor=yellow)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0064a5?style=flat&logo=PostgreSQL&logoColor=ffffff)
-![PostgreSQL](https://img.shields.io/badge/-Mongoose-dddd00?style=flat&logo=Mongoose&logoColor=ff4400)
 
 ### ORM/ODM
 
 ![Sequelize](https://img.shields.io/badge/-Sequelize-0064a5?style=flat&logo=Sequelize&logoColor=ffffff)
 ![Prisma](https://img.shields.io/badge/-Prisma-0064a5?style=flat&logo=Prisma&logoColor=ffffff)
+![PostgreSQL](https://img.shields.io/badge/-Mongoose-dddd00?style=flat&logo=Mongoose&logoColor=ff4400)
 
 ### Tools
 
