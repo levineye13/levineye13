@@ -26,7 +26,7 @@
 ### Tools
 
 ![Webpack](https://img.shields.io/badge/-Webpack-00ffff?style=flat&logo=Webpack&logoColor=blue)
-![Vite](https://img.shields.io/badge/-Webpack-00ffff?style=flat&logo=Webpack&logoColor=blue)
+![Vite](https://img.shields.io/badge/-Vite-00ffff?style=flat&logo=Vite&logoColor=blue)
 ![Git](https://img.shields.io/badge/-Git-ffffff?style=flat&logo=Git&logoColor=critical)
 ![GitHub](https://img.shields.io/badge/-GitHub-ffffff?style=flat&logo=GitHub&logoColor=black)
 ![VSCode](https://img.shields.io/badge/-VSCode-000080?style=flat&logo=Visual-studio-code&logoColor=blue)
